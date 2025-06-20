@@ -1,2 +1,1 @@
-# Marzo2025
-¡Hola desde la rama A! ¡Bienvenido al repositorio de colaboración!
+ ¡Bienvenido al repositorio de colaboración!
